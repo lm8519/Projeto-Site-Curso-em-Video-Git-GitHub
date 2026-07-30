@@ -35,7 +35,7 @@ O objetivo é colocar em prática os principais conceitos de versionamento com G
 
 ## Demonstração
 O projeto está disponível em:
-🔗 https://lm8519.github.io/Projeto-Site-Curso-em-Video-Git-GitHub/
+🔗 [https://lm8519.github.io/Projeto-Site-Curso-em-Video-Git-GitHub/](https://lm8519.github.io/Projeto-Site-Curso-em-Video-Git-GitHub/)
 
 ## Créditos
-Projeto desenvolvido como parte do curso **Git e GitHub**, do **Curso em Vídeo**, ministrado por Gustavo Guanabara. :contentReference[oaicite:1]{index=1}
+Projeto desenvolvido como parte do curso **Git e GitHub**, do **Curso em Vídeo**, ministrado por Gustavo Guanabara.
